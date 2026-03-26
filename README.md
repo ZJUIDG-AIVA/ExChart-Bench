@@ -1,5 +1,3 @@
-# ExChart-Bench
-
 ## 📄 Introduction
 This repository provides the code and data for **ExChart-Bench**, introduced in our CHI 2026 paper: *"Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework."*
 
