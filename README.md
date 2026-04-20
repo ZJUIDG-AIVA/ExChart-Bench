@@ -1,7 +1,7 @@
 # 📈👉🔢 ExChart-Bench
 
 > **Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework**  
-> Yuchen He, Peizhi Ying, Liqi Cheng, Kuilin Peng, Dazhen Deng, Yingcai Wu  
+> Yuchen He, Peizhi Ying, Liqi Cheng, Kuilin Peng, Yuan Tian, Dazhen Deng, Yingcai Wu  
 > Published at CHI 2026 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3772318.3790721) | [Website](https://exchart.github.io/)
 
 <a href=https://exchart.github.io><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
