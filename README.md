@@ -13,7 +13,7 @@ Chart data extraction, which reverse-engineers data tables from chart images, is
 ## 🔥 News
 - [2026-03] We manually debugged the dataset, fixing several annotation errors and image issues, and improving the accuracy of manually extracted values.
 - [2026-03] Release of ExChart-Bench code and dataset.
-- [2026-02] ExChart-Bench accepted at CHI 2026!
+- [2026-02] Paper accepted at CHI 2026!
 
 ## Getting Started
 
